@@ -171,6 +171,7 @@ a:hover{;
 header{
 	background-color: white;
 	z-index: 1200;
+	position: relative;
 }
 body{
 	background-color: #ffffff;
